@@ -71,7 +71,22 @@ This is the bridge between AI coding tools and real system architecture. One con
 ![npm downloads](https://img.shields.io/npm/dm/@yesprasad/fluent-graph?style=flat-square&color=CB3837)
 
 ---
+## ✍️ Writing
 
+I write about what I learn while building — RAG internals, vector search, agentic systems, and infrastructure decisions.
+
+**From ChromaDB to S3 Vectors — What I Learned About How Embeddings Actually Work**
+Traced one sentence through two completely different vector pipelines. Discovered why ChromaDB uses SQLite + HNSW together, why metadata filtering is non-optional in multi-document RAG, and what changes when you move from local inference to Bedrock Titan V2.
+[Read →](https://nodejseveryday.blogspot.com/2026/01/from-chromadb-to-s3-vectors-what-i.html)
+
+**From RAG to Agentic RAG — Why I Built It, Whether It's Real, and What Comes Next**
+Rebuilt a wellness benefits RAG system into a full agent with perceive→reason→act architecture. Covers when RAG actually needs an agent layer, the ReAct loop, and real production deployments at Uber and eBay doing the same pattern.
+[Read →](https://nodejseveryday.blogspot.com/2025/09/ai-agent-basics-class-101.html)
+
+**Benefits Q&A — Production RAG on AWS CDK**
+Built a HIPAA-aware RAG system for health insurance benefits using S3 Vectors, Titan Embed V2, Nova Micro, and Bedrock Guardrails — deployed entirely through reusable CDK infrastructure. PII masking, topic blocking, per-plan filtering.
+[Read →](https://github.com/yesprasad/AWS-Bedrock-CDK-Benefits-QnA)
+___
 
 ## What I Think About
 
