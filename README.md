@@ -71,6 +71,32 @@ This is the bridge between AI coding tools and real system architecture. One con
 ![npm downloads](https://img.shields.io/npm/dm/@yesprasad/fluent-graph?style=flat-square&color=CB3837)
 
 ---
+
+## 🏥 benefits-explainer
+
+**Production-ready RAG system for health insurance benefits Q&A — deployed entirely through reusable AWS CDK infrastructure.**
+
+Employees ask natural-language questions about their benefits plans and get grounded, policy-specific answers. No general knowledge, no hallucinated coverage details — the LLM reasons only over retrieved chunks from the actual plan documents.
+
+**What it enforces:**
+
+- Answers grounded exclusively in uploaded policy text — the LLM never generates from general knowledge
+- PII automatically masked before any question reaches the model (names, SSNs, phone numbers, addresses)
+- Off-topic queries blocked at the guardrail layer before they touch the LLM
+- Per-plan filtering — a PPO employee only gets PPO answers, no cross-plan bleed
+
+**What I learned building it:**
+
+- Traced one sentence through two completely different vector pipelines (ChromaDB locally vs S3 Vectors on AWS) — wrote about the internals [here](https://nodejseveryday.blogspot.com/2026/01/from-chromadb-to-s3-vectors-what-i.html)
+- Discovered why metadata filtering is non-optional in multi-document RAG — without it, similarity search returns chunks from the wrong plan
+- Built the agent layer (perceive→reason→act) when single-retrieval RAG couldn't handle multi-part benefits comparisons — wrote about that transition [here](https://nodejseveryday.blogspot.com/2025/09/ai-agent-basics-class-101.html)
+
+**Built with:** AWS CDK, S3 Vectors, Amazon Titan Embed V2, Nova Micro, Bedrock Guardrails, Lambda, API Gateway
+
+📦 [https://github.com/yesprasad/AWS-Bedrock-CDK-Benefits-QnA](https://github.com/yesprasad/AWS-Bedrock-CDK-Benefits-QnA))
+
+___
+
 ## ✍️ Writing
 
 I write about what I learn while building — RAG internals, vector search, agentic systems, and infrastructure decisions.
