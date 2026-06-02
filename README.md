@@ -1,7 +1,7 @@
 # Hi, I'm Eshwar Prasad Yaddanapudi 👋
 
 
-[![White Paper: The Authorship Inversion](https://img.shields.io/badge/White_Paper-The_Authorship_Inversion-black?logo=ai&logoColor=white)](https://doi.org/10.5281/zenodo.20513392)
+[![White Paper](https://img.shields.io/badge/White_Paper-The_Authorship_Inversion-black)](https://doi.org/10.5281/zenodo.20513392)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yesprasad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshwarprasadyaddanapudi)
 [![npm](https://img.shields.io/badge/npm-fluent--graph-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@yesprasad/fluent-graph)
 [![npm](https://img.shields.io/badge/npm-fluent--graph--mcp-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@yesprasad/fluent-graph-mcp)
