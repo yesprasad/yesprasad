@@ -14,7 +14,7 @@ I build the infrastructure layer beneath AI coding agents — the part that give
 ---
 
 ## The Problem I'm Solving
-
+![Philosophy](https://img.shields.io/badge/Pre--Execution_Governance-AI_agents_should_understand_consequence_before_execution.-black?style=flat-square)
 <div align="center">
 
 ### *"AI agents should understand consequence before execution."*
