@@ -2,7 +2,6 @@
 
 
 [![White Paper: The Authorship Inversion](https://img.shields.io/badge/White_Paper-The_Authorship_Inversion-black?logo=ai&logoColor=white)](https://doi.org/10.5281/zenodo.20513392)
-[![GitHub](https://img.shields.io/badge/GitHub-yesprasad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yesprasad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yesprasad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshwarprasadyaddanapudi)
 [![npm](https://img.shields.io/badge/npm-fluent--graph-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@yesprasad/fluent-graph)
 [![npm](https://img.shields.io/badge/npm-fluent--graph--mcp-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@yesprasad/fluent-graph-mcp)
