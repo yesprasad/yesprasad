@@ -16,8 +16,8 @@ I build the infrastructure layer beneath AI coding agents — the part that give
 ## The Problem I'm Solving
 <div align="center">
 
-### *"AI agents should understand consequence before execution."*
-<img src="https://img.shields.io/badge/PRE--EXECUTION_GOVERNANCE-%22AI_AGENTS_SHOULD_UNDERSTAND_CONSEQUENCE_BEFORE_EXECUTION.%22-red?style=for-the-badge" alt="Pre-Execution Governance" />
+
+<img src="https://img.shields.io/badge/PRE--EXECUTION_GOVERNANCE-%22AI_AGENTS_SHOULD_UNDERSTAND_CONSEQUENCE_BEFORE_EXECUTION.%22-blue?style=for-the-badge" alt="Pre-Execution Governance" />
 
 </div>
 
