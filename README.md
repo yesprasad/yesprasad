@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yesprasad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshwarprasadyaddanapudi)
 [![npm](https://img.shields.io/badge/npm-fluent--graph-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@yesprasad/fluent-graph)
 [![npm](https://img.shields.io/badge/npm-fluent--graph--mcp-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@yesprasad/fluent-graph-mcp)
+[![npm](https://img.shields.io/badge/npm-deep--graph-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@yesprasad/deep-graph)
 
 
 
