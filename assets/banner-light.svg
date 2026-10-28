@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" width="1280" height="400" role="img" aria-label="Eshwar Prasad Yaddanapudi. I build the structural intelligence layer that AI-driven software is missing.">
+<defs>
+  <radialGradient id="g" cx="80%" cy="45%" r="45%"><stop offset="0" stop-color="rgba(9,105,218,0.07)"/><stop offset="1" stop-color="rgba(9,105,218,0.07)" stop-opacity="0"/></radialGradient>
+  <clipPath id="c"><rect x="1" y="1" width="1278" height="398" rx="20"/></clipPath>
+</defs>
+<rect x="1" y="1" width="1278" height="398" rx="20" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+<g clip-path="url(#c)">
+<rect width="1280" height="400" fill="url(#g)"/>
+<text x="64" y="86" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="26" font-weight="800" fill="#1f2328"><tspan fill="#c9603f">[</tspan>YES<tspan fill="#c9603f">]</tspan> Prasad</text>
+<text x="64" y="170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#1f2328" letter-spacing="-0.5">Eshwar Prasad Yaddanapudi</text>
+<text x="64" y="224" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="27" fill="#424a53">I build the structural intelligence layer</text>
+<text x="64" y="260" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="27" fill="#424a53">that <tspan fill="#0969da" font-weight="600">AI-driven software</tspan> is missing.</text>
+<rect x="64" y="310" width="132" height="36" rx="18" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="130" y="334" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="17" fill="#424a53" text-anchor="middle">Agentic AI</text>
+<rect x="206.0" y="310" width="203" height="36" rx="18" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="308" y="334" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="17" fill="#424a53" text-anchor="middle">Code intelligence</text>
+<rect x="419.4" y="310" width="152" height="36" rx="18" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="496" y="334" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="17" fill="#424a53" text-anchor="middle">Blast radius</text>
+<rect x="581.8" y="310" width="61" height="36" rx="18" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="612" y="334" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="17" fill="#424a53" text-anchor="middle">RAG</text>
+<line x1="1030" y1="190" x2="950.3" y2="144.0" stroke="#afb8c1" stroke-width="1.6"/>
+<line x1="1030" y1="190" x2="1109.7" y2="144.0" stroke="#afb8c1" stroke-width="1.6"/>
+<line x1="1030" y1="190" x2="1030.0" y2="282.0" stroke="#afb8c1" stroke-width="1.6"/>
+<line x1="950.3" y1="144.0" x2="867.5" y2="164.0" stroke="#afb8c1" stroke-width="1.2" stroke-opacity=".7"/>
+<line x1="950.3" y1="144.0" x2="973.6" y2="49.0" stroke="#afb8c1" stroke-width="1.2" stroke-opacity=".7"/>
+<line x1="1109.7" y1="144.0" x2="1136.1" y2="75.1" stroke="#afb8c1" stroke-width="1.2" stroke-opacity=".7"/>
+<line x1="1109.7" y1="144.0" x2="1192.5" y2="216.0" stroke="#afb8c1" stroke-width="1.2" stroke-opacity=".7"/>
+<line x1="1030.0" y1="282.0" x2="1112.5" y2="319.9" stroke="#afb8c1" stroke-width="1.2" stroke-opacity=".7"/>
+<line x1="1030.0" y1="282.0" x2="923.9" y2="304.9" stroke="#afb8c1" stroke-width="1.2" stroke-opacity=".7"/>
+<circle cx="1030" cy="190" r="14" fill="none" stroke="#0969da" stroke-width="2">
+  <animate attributeName="r" values="14;190" dur="4s" repeatCount="indefinite"/>
+  <animate attributeName="stroke-opacity" values=".7;0" dur="4s" repeatCount="indefinite"/>
+</circle>
+<circle cx="950.3" cy="144.0" r="11" fill="#eaeef2" stroke="#afb8c1" stroke-width="1.5">
+  <animate attributeName="fill" values="#eaeef2;#eaeef2;#bc4c00;#bc4c00;#eaeef2" keyTimes="0;0.47;0.51;0.85;1" dur="4s" repeatCount="indefinite"/>
+  <animate attributeName="stroke" values="#afb8c1;#afb8c1;#bc4c00;#bc4c00;#afb8c1" keyTimes="0;0.47;0.51;0.85;1" dur="4s" repeatCount="indefinite"/>
+</circle>
+<circle cx="1109.7" cy="144.0" r="11" fill="#eaeef2" stroke="#afb8c1" stroke-width="1.5">
+  <animate attributeName="fill" values="#eaeef2;#eaeef2;#bc4c00;#bc4c00;#eaeef2" keyTimes="0;0.47;0.51;0.85;1" dur="4s" repeatCount="indefinite"/>
+  <animate attributeName="stroke" values="#afb8c1;#afb8c1;#bc4c00;#bc4c00;#afb8c1" keyTimes="0;0.47;0.51;0.85;1" dur="4s" repeatCount="indefinite"/>
+</circle>
+<circle cx="1030.0" cy="282.0" r="11" fill="#eaeef2" stroke="#afb8c1" stroke-width="1.5">
+  <animate attributeName="fill" values="#eaeef2;#eaeef2;#bc4c00;#bc4c00;#eaeef2" keyTimes="0;0.47;0.51;0.85;1" dur="4s" repeatCount="indefinite"/>
+  <animate attributeName="stroke" values="#afb8c1;#afb8c1;#bc4c00;#bc4c00;#afb8c1" keyTimes="0;0.47;0.51;0.85;1" dur="4s" repeatCount="indefinite"/>
+</circle>
+<circle cx="867.5" cy="164.0" r="8" fill="#eaeef2" stroke="#afb8c1" stroke-width="1.5">
+  <animate attributeName="fill" values="#eaeef2;#eaeef2;#bc4c00;#bc4c00;#eaeef2" keyTimes="0;0.80;0.84;0.85;1" dur="4s" repeatCount="indefinite"/>
+  <animate attributeName="stroke" values="#afb8c1;#afb8c1;#bc4c00;#bc4c00;#afb8c1" keyTimes="0;0.80;0.84;0.85;1" dur="4s" repeatCount="indefinite"/>
+</circle>
+<circle cx="973.6" cy="49.0" r="8" fill="#eaeef2" stroke="#afb8c1" stroke-width="1.5">
+  <animate attributeName="fill" values="#eaeef2;#eaeef2;#bc4c00;#bc4c00;#eaeef2" keyTimes="0;0.80;0.84;0.85;1" dur="4s" repeatCount="indefinite"/>
+  <animate attributeName="stroke" values="#afb8c1;#afb8c1;#bc4c00;#bc4c00;#afb8c1" keyTimes="0;0.80;0.84;0.85;1" dur="4s" repeatCount="indefinite"/>
+</circle>
+<circle cx="1136.1" cy="75.1" r="8" fill="#eaeef2" stroke="#afb8c1" stroke-width="1.5">
+  <animate attributeName="fill" values="#eaeef2;#eaeef2;#bc4c00;#bc4c00;#eaeef2" keyTimes="0;0.80;0.84;0.85;1" dur="4s" repeatCount="indefinite"/>
+  <animate attributeName="stroke" values="#afb8c1;#afb8c1;#bc4c00;#bc4c00;#afb8c1" keyTimes="0;0.80;0.84;0.85;1" dur="4s" repeatCount="indefinite"/>
+</circle>
+<circle cx="1192.5" cy="216.0" r="8" fill="#eaeef2" stroke="#afb8c1" stroke-width="1.5">
+  <animate attributeName="fill" values="#eaeef2;#eaeef2;#bc4c00;#bc4c00;#eaeef2" keyTimes="0;0.80;0.84;0.85;1" dur="4s" repeatCount="indefinite"/>
+  <animate attributeName="stroke" values="#afb8c1;#afb8c1;#bc4c00;#bc4c00;#afb8c1" keyTimes="0;0.80;0.84;0.85;1" dur="4s" repeatCount="indefinite"/>
+</circle>
+<circle cx="1112.5" cy="319.9" r="8" fill="#eaeef2" stroke="#afb8c1" stroke-width="1.5">
+  <animate attributeName="fill" values="#eaeef2;#eaeef2;#bc4c00;#bc4c00;#eaeef2" keyTimes="0;0.80;0.84;0.85;1" dur="4s" repeatCount="indefinite"/>
+  <animate attributeName="stroke" values="#afb8c1;#afb8c1;#bc4c00;#bc4c00;#afb8c1" keyTimes="0;0.80;0.84;0.85;1" dur="4s" repeatCount="indefinite"/>
+</circle>
+<circle cx="923.9" cy="304.9" r="8" fill="#eaeef2" stroke="#afb8c1" stroke-width="1.5">
+  <animate attributeName="fill" values="#eaeef2;#eaeef2;#bc4c00;#bc4c00;#eaeef2" keyTimes="0;0.80;0.84;0.85;1" dur="4s" repeatCount="indefinite"/>
+  <animate attributeName="stroke" values="#afb8c1;#afb8c1;#bc4c00;#bc4c00;#afb8c1" keyTimes="0;0.80;0.84;0.85;1" dur="4s" repeatCount="indefinite"/>
+</circle>
+<circle cx="1030" cy="190" r="16" fill="#0969da"/>
+<circle cx="1030" cy="190" r="6" fill="#ffffff"/>
+<text x="1030" y="372" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="16" fill="#656d76" text-anchor="middle">what breaks if this changes?</text>
+</g>
+</svg>
